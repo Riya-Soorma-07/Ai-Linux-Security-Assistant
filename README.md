@@ -1,3 +1,19 @@
-Here's a short and professional description you can use in your GitHub README:
+# AI Linux Security Assistant
 
-> **AI Linux Security Assistant** is an AI-powered application built with **Python, Streamlit, and Google Gemini AI** that helps users improve Linux system security. It provides features such as Linux command analysis, file permission checking, password strength evaluation, log analysis, and AI-based security recommendations through a simple and interactive interface.# Ai-Linux-Security-Assistant
+An AI-powered Linux Security Assistant built using Python and Streamlit.
+
+## Features
+
+- Linux Command Analyzer
+- Permission Checker
+- Password Checker
+- Log Analyzer
+- AI Chatbot
+- Security Score
+- Linux Hardening Tips
+
+## Technologies
+
+- Python
+- Streamlit
+- Google Gemini AI

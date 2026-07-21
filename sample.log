@@ -1,0 +1,4 @@
+Jul 18 10:30 sshd[1234]: Failed password for root from 192.168.1.20
+Jul 18 10:31 sshd[1235]: Accepted password for payal
+Jul 18 10:32 sudo: payal executed apt update
+Jul 18 10:33 kernel: error loading module
